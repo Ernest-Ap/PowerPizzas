@@ -16,6 +16,7 @@ In this report I will analyse the data of pizza orders.
 
 ### Software used:
 Microsoft SQL Server: For Data Exploration and to transfer the tables/views to Power BI.
+
 Microsoft Power BI: Created five visualizations to produce a dashboard to show the different findings.
 
 <img src="pod/2medco.png" width="840"> 
