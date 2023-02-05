@@ -3,7 +3,7 @@
 
 <img src="pod/1dash.png" width="900"> 
 
-### Dashboard displaying pizza orders from 2015 data. Using SQL queries/tables/views, next turning them into visualizations then into a dashboard using Power BI.
+### Dashboard displaying pizza orders from 2015 data, using SQL queries and tables/views. Next turning them into visualizations then into a dashboard using Power BI.
 
 In this report I will analyse the data of pizza orders.
 
@@ -15,7 +15,7 @@ In this report I will analyse the data of pizza orders.
 <li>Total Veggie Pizza Sales by Name: (Funnel Chart)
 
 ### Software used:
-Microsoft SQL Server: For Data Exploration and to transfer the queries/tables/views to Power BI.
+Microsoft SQL Server: For Data Exploration and to transfer the tables/views to Power BI.
 Microsoft Power BI: Created five visualizations to produce a dashboard to show the different findings.
 
 <img src="pod/2medco.png" width="840"> 
